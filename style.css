@@ -44,9 +44,7 @@ body {
     font-size: 1.1em;
   }
   .image {
-    width: 200px;
     border-radius: 50%;
-    height: 200px;
     background-size: cover;
   }
 }
@@ -86,9 +84,9 @@ body {
   padding: 0 10px;
 }
 .image {
-  width: 300px;
+  width: 250px;
   border-radius: 50%;
-  height: 300px;
+  height: 250px;
   background-size: cover;
 }
 .buttons {
